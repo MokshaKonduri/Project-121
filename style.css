@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+}
+.copy_right_footer {
+    position: fixed;
+    color: hotpink;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+      float: none;
+      
+ 
+ }
+ ol h5 {
+     background: white;
+     padding: 13px;
+     border-radius: 20px;
+ }
+ span {
+     color:hotpink;
+     font-size: 16px;
+ }	
+ li img {
+     border-radius: 20px;
+ }
+ .bob {
+     background: hotpink;
+     padding: 30px;
+     border-radius: 20px;
+     margin-top: 50px;
+     box-shadow: 5px 5px 18px grey;
+ }
+ b {
+     color: purple;
+ }
+ 
+ .bob3 {
+     text-align: center;
+     color: white;
+ }
+ .result {
+     box-shadow: 5px 5px 18px grey;
+     letter-spacing: 2px;
+     background: pink;
+     border-radius: 20px;
+     margin-top:30px;
+     padding: 20px;
+     border:2px solid grey
+ }
+ .mobilenet_button {
+     color: hotpink;
+     background-color: white;
+     box-shadow: 5px 5px 5px grey;
+ }
+ .googleLensImage {
+     box-shadow: 5px 5px 5px grey;
+     height: 150px;
+     width: 150px;
+     margin: 15px;
+ }
+ .output {
+     margin-right: 10px;
+     width: 350px;
+ }
+ .objectImage {
+     box-shadow: 5px 5px 5px grey;
+ }
+ .heading {
+     color: hotpink;
+     text-align: center;
+     font-family: 'Lexend Tera', sans-serif;
+ }
+ .vs {
+     margin: 15px;
+     color: hotpink;
+ }
